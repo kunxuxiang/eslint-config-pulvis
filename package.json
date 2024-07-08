@@ -1,0 +1,44 @@
+{
+  "name": "eslint-config-pulvis",
+  "version": "0.0.3",
+  "description": "ESLint shareable config for the pulvis style",
+  "repository": "xiangkunxu/eslint-config-pulvis",
+  "author": "xiangkunxu",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "jshint",
+    "jslint",
+    "eslint",
+    "validate",
+    "code style",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce",
+    "hint"
+  ],
+  "dependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^9.27.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.16.0"
+  }
+}
