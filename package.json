@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pulvis",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "ESLint shareable config for the pulvis style",
   "repository": "xiangkunxu/eslint-config-pulvis",
   "author": "xiangkunxu",
